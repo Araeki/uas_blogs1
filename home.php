@@ -1,0 +1,1 @@
+<h1>Welcome to Araeki's</h1>
